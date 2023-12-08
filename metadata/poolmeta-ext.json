@@ -1,0 +1,29 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://adaimpulse.club/img/cardano-icon64.png",
+        "url_png_logo": "https://adaimpulse.club/img/cardano-icon.png",
+        "location": "NA, EMEA",
+        "social": {
+            "github_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "twitter_handle": "",
+            "youtube_handle": "",
+            "facebook_handle": "",
+            "telegram_handle": "adaimpulse"
+        },
+        "company": {
+            "addr": "8875 Hidden River Pkwy Suite 300",
+            "city": "Tampa",
+            "name": "ADA IMPULSE",
+            "vat_id": "",
+            "country": "United States",
+            "company_id": ""
+        },
+        "about": {
+            "me": "We are advocates for blockchain technologies worldwide. We became enamored with blockchain in 2017. In 2021 we became a Cardano Stake Pool Operator.",
+            "server": "Our servers are located in NA and EMEA and have bandwidth 1000MB up/down.",
+            "company": "ADA IMPULSE CLUB"
+        }
+    }
+}
